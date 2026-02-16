@@ -124,6 +124,6 @@ caused by improper token/session validation logic.
 <h2>🎯 Career Objective</h2>
 
 <p>
-Actively pursuing a professional role in <b>Penetration Testing</b>, 
+Actively pursuing a  role in <b>Penetration Testing</b>, 
 where I can apply offensive security methodologies to identify, exploit, and responsibly report 
 critical vulnerabilities across modern web infrastructures.
